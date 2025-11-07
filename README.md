@@ -6,7 +6,7 @@ This project was developed as part of the **Flutter Developer Internship Task** 
 ---
 
 ## 🚀 **Live Demo**
-🔗 **Web App:** [Click here to view hosted version](https://your-hosted-link-here.com)
+🔗 **Web App:** (https://gokulanbazhagan.github.io/)
 
 ---
 
